@@ -62,6 +62,7 @@ GEM
       mime-types (~> 1.16)
       treetop (~> 1.4.8)
     mime-types (1.17.2)
+    newrelic_rpm (3.3.0)
     orm_adapter (0.0.5)
     polyglot (0.3.3)
     rack (1.2.4)
@@ -169,6 +170,7 @@ DEPENDENCIES
   jdbc-mysql
   jruby-openssl
   mysql2
+  newrelic_rpm
   refinerycms (~> 1.0.8)
   refinerycms-i18n (~> 1.0.0)
   trinidad

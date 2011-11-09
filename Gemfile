@@ -56,6 +56,7 @@ end
 
 # USER DEFINED
 
+gem 'newrelic_rpm'
 
 # Specify additional Refinery CMS Engines here (all optional):
 # gem 'refinerycms-inquiries',    '~> 1.0'
